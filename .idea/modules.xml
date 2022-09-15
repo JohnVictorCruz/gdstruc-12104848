@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GDSTRUC.iml" filepath="$PROJECT_DIR$/GDSTRUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GDSTRUC.iml" filepath="$PROJECT_DIR$/.idea/GDSTRUC.iml" />
     </modules>
   </component>
 </project>
